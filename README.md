@@ -1,2 +1,1 @@
-# familysearch-python-sdk-opensource
-We have moved!
+We have moved! https://github.com/amev7fam/familysearch-python-sdk-opensource
